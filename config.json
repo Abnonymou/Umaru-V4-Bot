@@ -25,7 +25,7 @@
 	"LeaveMode": "canvas",
 	"BanTemplate": "none",
 	"SqliteDB": true,
-	"AppStatePath": "/appstate.dev.txt",
+	"AppStatePath": "/appstate.txt",
 	"DatabasePath": "/data/data",
 	"PerformanceMode": false,
 	"LanguageAndTimeZone_Detector": true,
