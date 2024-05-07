@@ -14,19 +14,18 @@
 		"fca-umaru-v1",
 		"fca-umaru-v2"
 	],
-	"botname": "Umaru",
-	"prefix": "/",
+	"botname": "Zyldark",
+	"prefix": "×",
 	"nickname": "》 {prefix} 《 ❃ ➠ {botname}",
 	"adminbot": [
-		"100074293234284",
-		"100091250266334"
+		"100052395031835"
 	],
 	"RankupMode": "canvas",
 	"WelcomeMode": "canvas",
 	"LeaveMode": "canvas",
 	"BanTemplate": "none",
 	"SqliteDB": true,
-	"AppStatePath": "/appstate.txt",
+	"AppStatePath": "/appstate.dev.txt",
 	"DatabasePath": "/data/data",
 	"PerformanceMode": false,
 	"LanguageAndTimeZone_Detector": true,
